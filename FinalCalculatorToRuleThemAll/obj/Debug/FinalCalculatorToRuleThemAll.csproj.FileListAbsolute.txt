@@ -1,0 +1,10 @@
+C:\Users\esotc\source\repos\FinalCalculatorToRuleThemAll\bin\Debug\FinalCalculatorToRuleThemAll.exe.config
+C:\Users\esotc\source\repos\FinalCalculatorToRuleThemAll\bin\Debug\FinalCalculatorToRuleThemAll.exe
+C:\Users\esotc\source\repos\FinalCalculatorToRuleThemAll\bin\Debug\FinalCalculatorToRuleThemAll.pdb
+C:\Users\esotc\source\repos\FinalCalculatorToRuleThemAll\obj\Debug\FinalCalculatorToRuleThemAll.csprojAssemblyReference.cache
+C:\Users\esotc\source\repos\FinalCalculatorToRuleThemAll\obj\Debug\FinalCalculatorToRuleThemAll.Form1.resources
+C:\Users\esotc\source\repos\FinalCalculatorToRuleThemAll\obj\Debug\FinalCalculatorToRuleThemAll.Properties.Resources.resources
+C:\Users\esotc\source\repos\FinalCalculatorToRuleThemAll\obj\Debug\FinalCalculatorToRuleThemAll.csproj.GenerateResource.cache
+C:\Users\esotc\source\repos\FinalCalculatorToRuleThemAll\obj\Debug\FinalCalculatorToRuleThemAll.csproj.CoreCompileInputs.cache
+C:\Users\esotc\source\repos\FinalCalculatorToRuleThemAll\obj\Debug\FinalCalculatorToRuleThemAll.exe
+C:\Users\esotc\source\repos\FinalCalculatorToRuleThemAll\obj\Debug\FinalCalculatorToRuleThemAll.pdb
